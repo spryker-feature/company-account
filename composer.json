@@ -11,6 +11,7 @@
     "spryker-shop/company-page": "^2.3.0",
     "spryker-shop/company-user-invitation-page": "^2.2.0",
     "spryker-shop/company-widget": "^1.2.1",
+    "spryker/auth-rest-api": "^2.0.0",
     "spryker/business-on-behalf": "^1.0.3",
     "spryker/business-on-behalf-data-import": "^2.0.3",
     "spryker/company": "^1.1.3",
