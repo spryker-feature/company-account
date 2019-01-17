@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "~201903.0",
+    "spryker-feature/customer-account-management": "^201902.0",
     "spryker-shop/business-on-behalf-widget": "^0.1.1",
     "spryker-shop/company-page": "^2.3.3",
     "spryker-shop/company-user-invitation-page": "^2.2.2",
