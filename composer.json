@@ -8,7 +8,7 @@
     "php": ">=7.1",
     "spryker-feature/customer-account-management": "^201902.0",
     "spryker-shop/business-on-behalf-widget": "^0.1.1",
-    "spryker-shop/company-page": "^2.3.3",
+    "spryker-shop/company-page": "^2.3.4",
     "spryker-shop/company-user-invitation-page": "^2.2.2",
     "spryker-shop/company-widget": "^1.2.2",
     "spryker/business-on-behalf": "^1.0.4",
@@ -34,5 +34,10 @@
     "spryker/company-user-gui": "^1.1.0",
     "spryker/company-user-invitation": "^1.1.1",
     "spryker/merchant-relationship-gui": "^1.1.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
