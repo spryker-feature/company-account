@@ -33,8 +33,7 @@
     "spryker/company-user": "^2.5.0",
     "spryker/company-user-data-import": "^0.1.2",
     "spryker/company-user-gui": "^1.2.0",
-    "spryker/company-user-invitation": "^1.1.1",
-    "spryker/merchant-relationship-gui": "^1.2.0"
+    "spryker/company-user-invitation": "^1.1.1"
   },
   "extra": {
     "branch-alias": {
