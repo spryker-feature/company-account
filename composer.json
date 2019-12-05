@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/business-on-behalf-widget": "^0.1.1",
+    "spryker-shop/business-on-behalf-widget": "^1.0.0",
     "spryker-shop/company-page": "^2.6.0",
     "spryker-shop/company-user-agent-widget": "^1.0.0",
     "spryker-shop/company-user-invitation-page": "^2.3.0",
