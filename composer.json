@@ -27,7 +27,7 @@
     "spryker/company-role-gui": "^1.4.0",
     "spryker/company-unit-address": "^1.10.0",
     "spryker/company-unit-address-data-import": "^0.3.1",
-    "spryker/company-unit-address-gui": "^0.2.8",
+    "spryker/company-unit-address-gui": "^1.0.0",
     "spryker/company-unit-address-label": "^1.1.0",
     "spryker/company-unit-address-label-data-import": "^0.1.1",
     "spryker/company-unit-address-label-gui": "^1.0.0",
