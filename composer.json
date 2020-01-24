@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "^201903.0",
     "spryker-shop/business-on-behalf-widget": "^0.1.1",
     "spryker-shop/company-page": "^2.4.0",
     "spryker-shop/company-user-invitation-page": "^2.2.2",
@@ -39,5 +38,8 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/customer-account-management": "Recommended feature dependency."
   }
 }
