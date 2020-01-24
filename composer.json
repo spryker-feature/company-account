@@ -6,7 +6,6 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "~2018.11.0",
     "spryker-shop/business-on-behalf-widget": "^0.1.1",
     "spryker-shop/company-page": "^2.3.0",
     "spryker-shop/company-user-invitation-page": "^2.2.0",
@@ -34,5 +33,8 @@
     "spryker/company-user-gui": "^1.0.1",
     "spryker/company-user-invitation": "^1.1.0",
     "spryker/merchant-relationship-gui": "^1.0.2"
+  },
+  "suggest": {
+    "spryker-feature/customer-account-management": "Recommended feature dependency."
   }
 }
