@@ -29,5 +29,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [CompanyUserGuiExtension](https://github.com/spryker/company-user-gui-extension) (Extension)
 - [CompanyUsersRestApi ^2.2.0](https://github.com/spryker/company-users-rest-api) (Glue)
 - [CompanyUserStorageExtension ^1.0.0](https://github.com/spryker/company-user-storage-extension) (Extension)
-- [OauthCompanyUser ^2.1.0](https://github.com/spryker/oauth-company-user) (Connector)
 - [OauthCompanyUserExtension ^1.1.0](https://github.com/spryker/oauth-company-user-extension) (Extension)
