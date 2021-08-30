@@ -14,7 +14,7 @@ composer require spryker-feature/company-account
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [AuthRestApi ^2.11.0](https://github.com/spryker/auth-rest-api) (Glue)
+- [AuthRestApi ^2.14.0](https://github.com/spryker/auth-rest-api) (Glue)
 - [BusinessOnBehalfExtension ^1.0.0](https://github.com/spryker/business-on-behalf-extension) (Extension)
 - [BusinessOnBehalfGuiExtension ^1.0.0](https://github.com/spryker/business-on-behalf-gui-extension) (Extension)
 - [CompaniesRestApi ^1.1.0](https://github.com/spryker/companies-rest-api) (Glue)
