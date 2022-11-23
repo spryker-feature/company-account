@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "spryker-shop/business-on-behalf-widget": "^1.1.0",
         "spryker-shop/company-page": "^2.20.0",
         "spryker-shop/company-user-agent-widget": "^1.1.0",
