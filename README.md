@@ -20,7 +20,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [BusinessOnBehalfExtension ^1.0.0](https://github.com/spryker/business-on-behalf-extension) (Extension)
 - [BusinessOnBehalfGuiExtension ^1.0.0](https://github.com/spryker/business-on-behalf-gui-extension) (Extension)
 - [CompaniesRestApi ^1.2.0](https://github.com/spryker/companies-rest-api) (Legacy Glue)
-- [CompanyBusinessUnitAddressesRestApi ^1.1.0](https://github.com/spryker/company-business-unit-addresses-rest-api) (Legacy Glue)
+- [CompanyBusinessUnitAddressesRestApi ^1.2.0](https://github.com/spryker/company-business-unit-addresses-rest-api) (Legacy Glue)
 - [CompanyBusinessUnitSalesConnector ^1.1.0](https://github.com/spryker/company-business-unit-sales-connector) (Connector)
 - [CompanyBusinessUnitsRestApi ^1.3.0](https://github.com/spryker/company-business-units-rest-api) (Legacy Glue)
 - [CompanyBusinessUnitsRestApiExtension ^1.0.0](https://github.com/spryker/company-business-units-rest-api-extension) (Extension)
