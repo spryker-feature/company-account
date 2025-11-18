@@ -24,6 +24,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [CompanyBusinessUnitSalesConnector ^1.1.0](https://github.com/spryker/company-business-unit-sales-connector) (Connector)
 - [CompanyBusinessUnitsRestApi ^1.3.0](https://github.com/spryker/company-business-units-rest-api) (Legacy Glue)
 - [CompanyBusinessUnitsRestApiExtension ^1.0.0](https://github.com/spryker/company-business-units-rest-api-extension) (Extension)
+- [CompanyRoleExtension ^1.0.0](https://github.com/spryker/company-role-extension) (Extension)
 - [CompanyRoleGuiExtension ^1.0.0](https://github.com/spryker/company-role-gui-extension) (Extension)
 - [CompanyRolesRestApi ^1.1.0](https://github.com/spryker/company-roles-rest-api) (Legacy Glue)
 - [CompanySalesConnector ^1.1.0](https://github.com/spryker/company-sales-connector) (Connector)
