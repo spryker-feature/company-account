@@ -16,7 +16,7 @@ composer require spryker-feature/company-account
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [AuthRestApi ^2.18.0](https://github.com/spryker/auth-rest-api) (Legacy Glue)
+- [AuthRestApi ^2.19.0](https://github.com/spryker/auth-rest-api) (Legacy Glue)
 - [BusinessOnBehalfExtension ^1.0.0](https://github.com/spryker/business-on-behalf-extension) (Extension)
 - [BusinessOnBehalfGuiExtension ^1.0.0](https://github.com/spryker/business-on-behalf-gui-extension) (Extension)
 - [CompaniesRestApi ^1.7.0](https://github.com/spryker/companies-rest-api) (Legacy Glue)
@@ -31,6 +31,6 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [CompanyUserAuthRestApi ^2.3.0](https://github.com/spryker/company-user-auth-rest-api) (Legacy Glue)
 - [CompanyUserExtension ^1.3.0](https://github.com/spryker/company-user-extension) (Extension)
 - [CompanyUserGuiExtension](https://github.com/spryker/company-user-gui-extension) (Extension)
-- [CompanyUsersRestApi ^2.12.0](https://github.com/spryker/company-users-rest-api) (Legacy Glue)
+- [CompanyUsersRestApi ^2.13.0](https://github.com/spryker/company-users-rest-api) (Legacy Glue)
 - [CompanyUserStorageExtension ^1.0.0](https://github.com/spryker/company-user-storage-extension) (Extension)
 - [OauthCompanyUserExtension ^1.1.0](https://github.com/spryker/oauth-company-user-extension) (Extension)
